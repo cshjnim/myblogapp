@@ -17,6 +17,10 @@ fontawesome
 API
 
 
+# Screenshots
+
+![Screenshots](/assets/screenshots&work/initialbrainstorming.png)
+
 
 
 
