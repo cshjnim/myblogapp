@@ -19,7 +19,7 @@ API
 
 # Screenshots
 
-![Screenshots](/assets/screenshots&work/initialbrainstorming.png)
+![Screenshots](/myblogapp/assets/screenshots&work/initialbrainstorming.png)
 
 
 
