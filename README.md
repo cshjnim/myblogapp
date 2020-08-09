@@ -7,13 +7,13 @@ Future can be used it as the SNS, but more focus on a personal diary blog.
 
 # technologies/ libraries &dependencies to use
 
-JS or REACT JS 
-HTML or handlebars
-mySQL or MongoDB
-firebase or OKTA or... Passport
+REACT JS 
+handlebars
+MongoDB
+OKTA or... Passport
 
 bulma 
-fontawesome
+fontawesome 
 API
 
 
