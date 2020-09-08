@@ -1,0 +1,24 @@
+{
+  "name": "myblogapp",
+  "version": "1.0.0",
+  "description": "this is my personal dedication to create an app that I would use most of time. My personal blog site! It would be a personal blog where I can add my cover photo on side and basic bio and post my things other side, such as daily dairy, photos, notes, shared posts from other site. \r Future can be used it as the SNS, but more focus on a personal diary blog.",
+  "main": "index.js",
+  "dependencies": {
+    "create-react-app": "^3.4.1",
+    "package": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cshjnim/myblogapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cshjnim/myblogapp/issues"
+  },
+  "homepage": "https://github.com/cshjnim/myblogapp#readme"
+}
